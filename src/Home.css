@@ -1,0 +1,60 @@
+.navbar{
+    height: 70px;
+    background-color: rgb(155, 210, 230);
+    margin:0px;
+    display: flex;
+    gap: 50px;
+    align-items: top;
+    font-weight: 300;
+}
+.ss h3{
+    margin-left:500px;
+    font-weight: 500;
+    color: rgb(53, 13, 90);
+    font-size:20px;
+    
+}
+
+.ss h3:hover{
+    cursor: pointer;
+    color: rgb(116, 116, 142);
+}
+.ss2 h3{
+     font-weight: 500;
+    color: rgb(53, 13, 90);
+    font-size:20px;
+}
+.ss2 h3:hover{
+    cursor: pointer;color: rgb(116, 116, 142);
+    
+   
+}
+.ss3 h3{
+     font-weight: 500;
+    color: rgb(53, 13, 90);
+    font-size:20px;
+}
+.ss3 h3:hover{
+    cursor: pointer;color: rgb(116, 116, 142);
+    
+   
+}
+.main {
+   /*background-image: url("https://png.pngtree.com/background/20210716/original/pngtree-online-shopping-promotion-mobile-online-payment-picture-image_1389350.jpg");
+   background-repeat: no-repeat;
+   background-position: center ;
+   background-size: cover;
+   height: 700px;*/
+}
+.email h2{
+    font-size: 20px;
+    color: rgb(53, 13, 90);
+}
+.ss4 h3{
+     font-weight: 500;
+    color: rgb(53, 13, 90);
+    font-size:20px;
+}
+.ss4 h3:hover{
+    cursor: pointer;color: rgb(116, 116, 142);   
+}
